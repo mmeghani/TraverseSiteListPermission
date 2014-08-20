@@ -1,0 +1,11 @@
+c:\users\moss_web_app_stage\documents\visual studio 2012\Projects\TraverseSitesLists\TraverseSitesLists\bin\Debug\TraverseSitesLists.exe.config
+c:\users\moss_web_app_stage\documents\visual studio 2012\Projects\TraverseSitesLists\TraverseSitesLists\bin\Debug\TraverseSitesLists.exe
+c:\users\moss_web_app_stage\documents\visual studio 2012\Projects\TraverseSitesLists\TraverseSitesLists\bin\Debug\TraverseSitesLists.pdb
+c:\users\moss_web_app_stage\documents\visual studio 2012\Projects\TraverseSitesLists\TraverseSitesLists\obj\Debug\TraverseSitesLists.exe
+c:\users\moss_web_app_stage\documents\visual studio 2012\Projects\TraverseSitesLists\TraverseSitesLists\obj\Debug\TraverseSitesLists.pdb
+C:\Users\mmeghani\Documents\Visual Studio 2012\Projects\TraverseSitesLists\TraverseSitesLists\bin\Debug\TraverseSitesLists.exe.config
+C:\Users\mmeghani\Documents\Visual Studio 2012\Projects\TraverseSitesLists\TraverseSitesLists\obj\Debug\TraverseSitesLists.exe
+C:\Users\mmeghani\Documents\Visual Studio 2012\Projects\TraverseSitesLists\TraverseSitesLists\obj\Debug\TraverseSitesLists.pdb
+C:\Users\mmeghani\Documents\Visual Studio 2012\Projects\TraverseSitesLists\TraverseSitesLists\bin\Debug\TraverseSitesLists.exe
+C:\Users\mmeghani\Documents\Visual Studio 2012\Projects\TraverseSitesLists\TraverseSitesLists\bin\Debug\TraverseSitesLists.pdb
+C:\Users\mmeghani\Documents\Visual Studio 2012\Projects\TraverseSitesLists\TraverseSitesLists\bin\Debug\Microsoft.SharePoint.dll
